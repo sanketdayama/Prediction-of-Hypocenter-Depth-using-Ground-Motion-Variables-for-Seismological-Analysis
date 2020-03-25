@@ -1,0 +1,1 @@
+# Prediction-of-Hypocenter-Depth-using-Ground-Motion-Variables-for-Seismological-Analysis
